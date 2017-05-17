@@ -19,11 +19,5 @@ This is a repo to practice scraping from website.
     $ git clone git@github.com:zhengyu92/web-scraping.git
     $ cd web-scraping
     ```
-
-0. Setup and run
-
-    ``` bash
-    $ python scrape-sior.py
-    ```
     
 0. Try it out using [Jupyter notebook](http://jupyter.org/)
