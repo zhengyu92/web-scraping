@@ -2,16 +2,7 @@
 This is a repo to practice scraping from website.
 
 ## Development   
-0. Install required packages
-
-    ``` bash
-    $ sudo easy_install pip
-    $ sudo pip install virtualenv
-    $ pip install selenium
-    $ pip install regex
-    $ pip install pandas
-    $ pip install beautifulsoup4
-    ```
+0. Install required packages according to each folder.
 
 0. Clone and `cd` into the `web-scraping` repository
 
